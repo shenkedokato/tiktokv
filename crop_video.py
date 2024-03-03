@@ -7,3 +7,5 @@ def crop_video(video_clip_paths,height,width,output_path):
     video=video.crop(x1=crop_X,y1=crop_y,width=width,height=height)
     video.write_videofile(output_path)
 
+if __name__ =="__main__":
+    crop_video("Video/m2.mp4",200,500, "hh.mp4")
