@@ -1,29 +1,23 @@
 import cv2
 import moviepy.editor as mpe
 
-lowerThird = "Video/need.png"
-videoFile = "video/m2.mp4"
-outputFile = "alpha.mp4"
+lowerThird = "video/m2.mp4"
+videoFile = "video/m1.mp4"
+outputFile = "video/alpha.mp4"
 
 
 def vdo_with_alpha(lowerThird, videoFile, outputFile):
     tmpVid = cv2.VideoCapture(videoFile)
     framespersecond = float(tmpVid.get(cv2.CAP_PROP_FPS))
     
-    video_clip = mpe.VideoFileClip(videoFile, target_resolution=(200, 500))
+    # video_clip = mpe.VideoFileClip(videoFile, target_resolution=(200, 500))
+    video_clip = mpe.VideoFileClip(videoFile)
     
-    overlay_clip = mpe.ImageClip(lowerThird).set_duration(video_clip.duration)
+    overlay_clip = mpe.VideoFileClip(lowerThird).set_position((100, 60)).resize(0.75)
     
-    final_video = mpe.CompositeVideoClip([ overlay_clip,video_clip])
+    final_video = mpe.CompositeVideoClip([ video_clip,overlay_clip])
     
-    final_video.write_videofile(
-        outputFile,
-        fps=framespersecond,
-        remove_temp=True,
-        codec="libx264",
-        audio_codec="aac",
-        threads=6
-    )
+    final_video.write_videofile(outputFile)
 
 
 
