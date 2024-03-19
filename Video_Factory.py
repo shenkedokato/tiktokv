@@ -213,4 +213,5 @@ class VideoFactory(VideoFileClip):
 
 
 a = VideoFactory("Video/m2.mp4")
-a.rotate(20).write_videofile("vl.mp4")
+b= VideoFactory("video/m1.mp4")
+a.get_audio().speed_up_video()

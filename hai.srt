@@ -1,0 +1,276 @@
+1
+00:00:00,170 --> 00:00:03,806
+Hey, what's up everyone? My name is Tim. In this video I'm gonna explain how
+
+2
+00:00:03,828 --> 00:00:07,738
+you can easily convert audio, so let's say a voice recording or a podcast
+
+3
+00:00:07,834 --> 00:00:11,246
+to subtitles. And as a bonus, at the end of the video I'm showing you
+
+4
+00:00:11,268 --> 00:00:15,274
+how you can use one of our templates and make amazing videos with subtitles
+
+5
+00:00:15,322 --> 00:00:18,698
+with one of our templates. So stay tuned. So in this video we're
+
+6
+00:00:18,714 --> 00:00:22,030
+to use VEED's online video editor and you can instantly get started.
+
+7
+00:00:22,100 --> 00:00:26,198
+Simply head over to your browser and type in the URL box, edit new
+
+8
+00:00:26,284 --> 00:00:29,650
+and click on Enter. You can also click on the first link in the description.
+
+9
+00:00:29,730 --> 00:00:33,170
+Now we're in V's editor and we can get started. You can upload an audio
+
+10
+00:00:33,250 --> 00:00:36,726
+or video file if you like. You can choose one of the templates, but for
+
+11
+00:00:36,748 --> 00:00:39,894
+now I'm just going to convert audio to subtitles. So I'm going to click on
+
+12
+00:00:39,932 --> 00:00:43,798
+upload a file, select the audio file I want to convert to subtitles
+
+13
+00:00:43,894 --> 00:00:47,146
+and click on open again. We're prompted to choose a template or
+
+14
+00:00:47,168 --> 00:00:50,366
+a dimension, but I just want to start with a blank canvas. So I'm going
+
+15
+00:00:50,368 --> 00:00:54,218
+to click on start with a blank canvas and as you can see. Hey everyone,
+
+16
+00:00:54,304 --> 00:00:57,386
+my name is Tim. I just wanted to say a quick hi to. The audio
+
+17
+00:00:57,418 --> 00:01:01,146
+file is imported, so now I want to turn this audio fragment to subtitles
+
+18
+00:01:01,178 --> 00:01:04,746
+and we're going to use VEED's automatic transcription tool. So to get started it's
+
+19
+00:01:04,778 --> 00:01:08,578
+very easy. Head over to subtitles in the left menu and then choose one of
+
+20
+00:01:08,584 --> 00:01:12,386
+the subtitle options. You can choose to add subtitles manually or
+
+21
+00:01:12,408 --> 00:01:15,406
+you can choose the auto subtitle tool. In this case we're going to choose auto
+
+22
+00:01:15,438 --> 00:01:18,770
+subtitle. Now we're prompted to choose the language we spoke in our video.
+
+23
+00:01:18,840 --> 00:01:21,958
+And as you can see there's a lot of languages you can choose from.
+
+24
+00:01:22,124 --> 00:01:25,634
+In this case, I chose to speak English, so I can only do two languages
+
+25
+00:01:25,682 --> 00:01:28,854
+anyway. So I'm going to select English and then click
+
+26
+00:01:28,892 --> 00:01:32,306
+on start. And now the auto transcription tool will automatically transcribe
+
+27
+00:01:32,338 --> 00:01:35,718
+the audio to text and turn them into subtitles. And as you
+
+28
+00:01:35,724 --> 00:01:39,414
+can see we converted audio to subtitles and we can watch it back.
+
+29
+00:01:39,612 --> 00:01:42,366
+I just wanted to say a quick hi to everyone and I hope you're all
+
+30
+00:01:42,388 --> 00:01:45,774
+doing well. Nice. In a bit I'm going to download these subtitles as
+
+31
+00:01:45,812 --> 00:01:48,958
+a text file and an SRT file. But first I want to show you how
+
+32
+00:01:48,964 --> 00:01:52,174
+you can edit these subtitles. So on the left you can see all the text
+
+33
+00:01:52,212 --> 00:01:55,806
+boxes, they're all synced with the video itself as you can also see in
+
+34
+00:01:55,828 --> 00:01:59,010
+the bottom timeline. But let's say you want to change the text,
+
+35
+00:01:59,160 --> 00:02:03,202
+you can just simply click on the text itself and just change whatever
+
+36
+00:02:03,256 --> 00:02:06,898
+you like. Because we use the auto transcription tool, it's already very accurate so I
+
+37
+00:02:06,904 --> 00:02:09,638
+don't need to change much. But let's say you want to change the timing of
+
+38
+00:02:09,644 --> 00:02:13,586
+the subtitles. Simply head over to the bottom timeline and you can click and drag
+
+39
+00:02:13,618 --> 00:02:17,318
+on one of the sides. Or just simply click from the middle and just
+
+40
+00:02:17,484 --> 00:02:20,742
+move it around. As you can see on the bottom timeline you can also add
+
+41
+00:02:20,796 --> 00:02:24,394
+subtitles or you can split subtitles. For instance if you're going to use
+
+42
+00:02:24,432 --> 00:02:27,878
+the play ad in the bottom timeline and just let it rest somewhere. And we're
+
+43
+00:02:27,894 --> 00:02:31,462
+going to click on split subtitle and then split the subtitle Tada
+
+44
+00:02:31,526 --> 00:02:35,086
+into. So that's how you edit your subtitles. So if you want to download your
+
+45
+00:02:35,108 --> 00:02:38,650
+subtitles as a text file, srt file or vtt file,
+
+46
+00:02:38,730 --> 00:02:42,154
+simply head over to options in the subtitles menu. And on the download
+
+47
+00:02:42,202 --> 00:02:45,998
+subtitles you can choose one of the formats, SRT, VTT or text.
+
+48
+00:02:46,084 --> 00:02:48,946
+In this case I'm going to choose SRT and I'm going to click on the
+
+49
+00:02:48,968 --> 00:02:52,210
+download button and I also want to download a text file from it. So again,
+
+50
+00:02:52,280 --> 00:02:55,586
+just choose the format, click on text format and click on the
+
+51
+00:02:55,608 --> 00:02:59,086
+download button. Now if we take a look in our downloads
+
+52
+00:02:59,118 --> 00:03:02,438
+folder, you can see the SRT file and the text file. We can open a
+
+53
+00:03:02,444 --> 00:03:06,134
+text file for instance. And as you can see all the transcriptions are in there.
+
+54
+00:03:06,172 --> 00:03:08,374
+Now let's say you want to do more. Let's say you want to turn this
+
+55
+00:03:08,412 --> 00:03:11,494
+audio fragment into a video with subtitles in there.
+
+56
+00:03:11,532 --> 00:03:14,346
+We simply go back to the beginning. You can choose one of the templates for
+
+57
+00:03:14,368 --> 00:03:17,962
+instance. And once you chose one of the templates, you can easily change any
+
+58
+00:03:18,016 --> 00:03:21,306
+element that you can see in the video frame. And as I showed you
+
+59
+00:03:21,328 --> 00:03:24,766
+before, you can easily use the auto transcription tool to turn the audio to
+
+60
+00:03:24,788 --> 00:03:28,346
+subtitles again. And now with the help of Vit's editor, you can edit the audio
+
+61
+00:03:28,378 --> 00:03:31,982
+visualizers, the text, the subtitles. You can customize them,
+
+62
+00:03:32,036 --> 00:03:35,758
+design them, you can change the background, add images, add music,
+
+63
+00:03:35,844 --> 00:03:39,022
+whatever you like. And then if you did all that,
+
+64
+00:03:39,076 --> 00:03:42,286
+just simply click on the export button in the right top corner and make
+
+65
+00:03:42,308 --> 00:03:45,826
+sure burn subtitles is enabled because that's what makes the subtitles
+
+66
+00:03:45,858 --> 00:03:49,494
+burned into the video. And then when the video is rendered you're free to choose
+
+67
+00:03:49,532 --> 00:03:52,886
+to share your video with your friends, colleagues or family. All right?
+
+68
+00:03:52,908 --> 00:03:56,454
+And that's how you convert audio to subtitles. Thank you so much for watching.
+
+69
+00:03:56,572 --> 00:03:58,520
+Good luck and have a nice day.
+
